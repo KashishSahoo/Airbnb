@@ -4,7 +4,7 @@
   },
   "name": "major",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "index.js",
   "dependencies": {
    
       "cloudinary": "^2.5.0",
